@@ -15,7 +15,7 @@ ______
 
 ** The files must be in **(Part Name)-(Rev #) [SIDE#] Part#000.TXT** format, for example:<br/>
 <p align="center">
-<i> "27134-REV C [S1] Part#001.TXT" </i> or <i> "27134-REV C [S3] Part#006.TXT"</i>
+<i> "28124-REV A [S1] Part#001.TXT" </i> or <i> "2025142-008-REV C [S3] Part#006.TXT"</i>
 </p>
 
 <h2>Option functionality </h2> 
